@@ -28,14 +28,14 @@ console.log(Math.expm1(1)); // 1.718281828459045
 ## Tests
 Simply clone the repo, `npm install`, and run `npm test`
 
-[package-url]: https://npmjs.org/package/es-shims/math.expm1
-[npm-version-svg]: https://versionbadg.es/es-shims/math.expm1.svg
-[deps-svg]: https://david-dm.org/es-shims/math.expm1.svg
-[deps-url]: https://david-dm.org/es-shims/math.expm1
-[dev-deps-svg]: https://david-dm.org/es-shims/math.expm1/dev-status.svg
-[dev-deps-url]: https://david-dm.org/es-shims/math.expm1#info=devDependencies
-[npm-badge-png]: https://nodei.co/npm/es-shims/math.expm1.png?downloads=true&stars=true
-[license-image]: https://img.shields.io/npm/l/es-shims/math.expm1.svg
+[package-url]: https://npmjs.org/package/math.expm1
+[npm-version-svg]: https://versionbadg.es/es-shims/Math.expm1.svg
+[deps-svg]: https://david-dm.org/es-shims/Math.expm1.svg
+[deps-url]: https://david-dm.org/es-shims/Math.expm1
+[dev-deps-svg]: https://david-dm.org/es-shims/Math.expm1/dev-status.svg
+[dev-deps-url]: https://david-dm.org/es-shims/Math.expm1#info=devDependencies
+[npm-badge-png]: https://nodei.co/npm/math.expm1.png?downloads=true&stars=true
+[license-image]: https://img.shields.io/npm/l/math.expm1.svg
 [license-url]: LICENSE
-[downloads-image]: https://img.shields.io/npm/dm/es-shims/math.expm1.svg
-[downloads-url]: https://npm-stat.com/charts.html?package=es-shims/math.expm1
+[downloads-image]: https://img.shields.io/npm/dm/math.expm1.svg
+[downloads-url]: https://npm-stat.com/charts.html?package=math.expm1
